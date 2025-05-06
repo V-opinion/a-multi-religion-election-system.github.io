@@ -817,7 +817,7 @@ span.glyph.address-icon {
 }
 
 .container-fluid#flex-container-2 {
-  background-image: url('http://themes.coffeecup.com/bootstrap-builder/technologic/images/entrepreneur.jpg');
+  background-image: url('https://i.pinimg.com/280x280_RS/d5/12/c1/d512c1cb44fcb11497e75594820c8b6e.jpg');
 }
 
 .container-fluid.news-container {
@@ -880,7 +880,7 @@ span.glyph.feature-icon:hover {
   }
 
   .container-fluid#flex-container-2 {
-    background-image: url('http://themes.coffeecup.com/bootstrap-builder/technologic/images/entrepreneur.jpg');
+    background-image: url('https://i.pinimg.com/280x280_RS/d5/12/c1/d512c1cb44fcb11497e75594820c8b6e.jpg');
   }
 
   .container-fluid#container-1 {
