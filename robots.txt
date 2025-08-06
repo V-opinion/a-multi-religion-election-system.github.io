@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a-multi-religion-election-system.multireligionvalsystem.eu.org/sitemap.xml
