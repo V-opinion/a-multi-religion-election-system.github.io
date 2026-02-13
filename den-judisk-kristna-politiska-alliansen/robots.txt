@@ -1,0 +1,23 @@
+# robots.txt for a-multi-religion-election-system.multireligionvalsystem.eu.org
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://a-multi-religion-election-system.multireligionvalsystem.eu.org/sitemap.xml
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Crawl delay (optional, in seconds)
+Crawl-delay: 1
